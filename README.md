@@ -1,6 +1,6 @@
 # What is `LfnLf`?
 ---
-LfnLf is a monniker for `Linux for NonLinux folks` and represents a viewable knowledge base for Linux users that are new to Linux and its concepts. It aims to give you access to the basic knowledge that can take years to learn on your own without guidance. We saw a need and decided to create `LfnLf` to address that need. 
+`LfnLf` is a monniker for `Linux for NonLinux folks` and represents a viewable knowledge base for Linux users that are new to Linux and its concepts. It aims to give you access to the basic knowledge that can take years to learn on your own without guidance. We saw a need and decided to create `LfnLf` to address that need. 
 
 ## Introduction
 ---
